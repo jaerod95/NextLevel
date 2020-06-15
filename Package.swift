@@ -38,6 +38,5 @@ let package = Package(
           name: "NextLevel",
           path: "Sources"
       )
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
